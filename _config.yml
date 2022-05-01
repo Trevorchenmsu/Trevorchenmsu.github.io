@@ -82,13 +82,12 @@ analytics:
 author:
   name             : "Jason (Jisheng) Chen"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate at Michigan State University, research interests lie in machine learning, deep learning, computer vision, perception in autonomous driving"
+  bio              : "PhD of Mechanial Engineering at Michigan State University"
   location         : "East Lansing, Michigan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=QGQbJr4AAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F5I-E2SnTaWBg-aQL75xKk5Oqri7NnSL8r_pJjfTxdAATM2gDYgszFyxLhNrYKyd0HjQ9nseO2h_NUkPRIgi_M0I_QP_bbNXGJnCVz2WOYltSagsjU"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "jishengchenft@gmail.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +99,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/jason-jisheng-chen"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
