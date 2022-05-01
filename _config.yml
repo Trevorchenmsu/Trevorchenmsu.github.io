@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jason (Jisheng) Chen"
 title_separator          : "-"
 name                     : &name "Jason (Jisheng) Chen"
-description              : &description "personal description"
+description              : &description "Ph.D. Candidate at Michigan State University"
 url                      : https://Trevorchenmsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Trevorchenmsu.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jason (Jisheng) Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. candidate at Michigan State University, research interests lie in machine learning, deep learning, computer vision, perception in autonomous driving"
+  location         : "East Lansing, Michigan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=QGQbJr4AAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F5I-E2SnTaWBg-aQL75xKk5Oqri7NnSL8r_pJjfTxdAATM2gDYgszFyxLhNrYKyd0HjQ9nseO2h_NUkPRIgi_M0I_QP_bbNXGJnCVz2WOYltSagsjU"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Trevorchenmsu"
   google_plus      :
   keybase          :
   instagram        :
