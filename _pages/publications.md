@@ -29,7 +29,7 @@ M. C. Yesilli, **J. S. Chen**, F. A. Khasawneh, Y. Guo, **CIRP Journal of Manufa
 **J. S. Chen**, D. X. E, J. W. Zhang, **Automobile Technology & Material**, 2013. 
 * Analysis on room temperature creep properties of 1Cr18Ni9Ti tubes <br /> 
 **J. S. Chen**, J. H. Shi, D. X. E, **Mechanical Engineering Material**, 2015(39): 79-82 
-* Plane strain solution and cross-section flattening analysis in tube  bending with linear hardening law
+* Plane strain solution and cross-section flattening analysis in tube  bending with linear hardening law <br /> 
 D. X. E, **J. S. Chen**, C. Yang, **Journal of Strain Analysis**, 2013. 
 * In-plane strain solution of stress and defects of tube bending with exponential hardening law <br /> 
 D. X. E, **J. S. Chen**, J. Ding, **Mechanics Based Design of Structures and Machines**, 2012, 40: 257–276. 
@@ -37,5 +37,5 @@ D. X. E, **J. S. Chen**, J. Ding, **Mechanics Based Design of Structures and Mac
 D. X. E, Z. P. G, **J. S. Chen**, **Journal of Materials Engineering and Performance**, 2012, 21:2316–2322. 
 * Teaching experiments and study on baking hardening performance of BH340 steel for automobile <br /> 
 J. Liu, D. X. E, **J. S. Chen**, **Experimental Technology and Management**, 2013, 30 (3): 62-64. 
-* Analysis of the influence of material properties and relative wall  thickness in boosting bending process of metal tubes
+* Analysis of the influence of material properties and relative wall  thickness in boosting bending process of metal tubes <br /> 
 Z. T. Fan, D. X. E, **J. S. Chen**, **Journal of Net shape Forming Engineering**, 2013. 
