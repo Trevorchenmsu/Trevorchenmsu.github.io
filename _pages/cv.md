@@ -78,19 +78,19 @@ Publications
   
 Courses
 ======
-* Artificial Intelligence
-* Artificial Intelligence for Robotics
-* Computational Photography
-* Computer Vision
-* Computer Network
-* Data Structure & Algorithm
-* Database & Design
-* Deep Learning
-* Machine Learning
-* Intro to Graduate Algorithm
-* Machine Learning for Trade
-* Software Architecture and Design
-* Software Development Process
+* CS6601: Artificial Intelligence
+* CS7638: Artificial Intelligence for Robotics
+* CS6475: Computational Photography
+* CS6476: Computer Vision
+* CS6250: Computer Network
+* CS61B: Data Structure & Algorithm
+* CS6400: Database & Design
+* CS7643: Deep Learning
+* CS229: Machine Learning
+* CS6515: Intro to Graduate Algorithm
+* CS7646: Machine Learning for Trade
+* CS6310: Software Architecture and Design
+* CS6300: Software Development Process
 
 
 Talks
